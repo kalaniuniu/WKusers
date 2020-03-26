@@ -1,0 +1,122 @@
+N31F2-P4UY4-SJ7MZ-8SRF4-25TB1
+
+VMware YZ718-4REEQ-08DHQ-JNYQC-ZQRD0
+1.修改excel为多进程
+	1.打开注册表编辑器（开始-运行-输入" regedit ")，先进行导出操作备份注册表。
+　　2. 定位到【HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open】，展开Open，将ddeexec删除，然后选中command，双击右侧窗格的默认，将末尾的/dde改成【"%1"】（注意有双引号），再双击command，也是将末尾的/dde改成"%1"。图1是修改后的截图。
+　　3. 再定位到【HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open】用同样的方法修改注册表。
+　　4.此方法适用于office2010.2007，2016   找到对应csv文件处修改。
+
+
+住证平台服务时间：周一至周日8:00-23:00客服热线服务时间：周一至周日9:00-18:00
+
+客服热线及投诉电话：010-89735900
+
+StackTrace = "   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)\r\n   在 System.ThrowHelper.ThrowArgumentOutOfRangeException()\r\n   在 System.Collections.Generic.List`1.get_Item(Int32 index)\r\n   在 AKBETMath...
+
+
+set CONDA_FORCE_32BIT=1
+
+15384721026
+
+快转速： 3.4Hz.   周期294.1176471ms.      
+相位0 幅值3vpp 偏移0.
+方波 square.
+
+
+光谱仪的四种trigger mode.
+1.软件trigger。高电平一直采，低电平停止采。
+2.外部同步trigger  TTL 触发信号
+3.硬件触发  TTL输入的上升沿开始之后开始采，
+4. Single-Shot Trigger Mode。（不支持）
+
+光谱仪开发笔记：
+1.增加条数，时间消耗正比。 rate:498.5左右。并没有显示出更快的速度。
+2.最大光谱数2800.
+3.高速采集模式，必须先设定要采集的光谱条数。
+
+
+
+品资料麻烦尽快保存或者下载，请勿乱传播，谢谢！
+
+360网盘
+https://yunpan.360.cn/surl_yxjKhbUf2kr  （提取码：c90c）
+
+2904：  15810208950
+tt-jane: 18600443529
+ChinaNet-2zru 
+ChinaNet-gKC4 wps.
+
+
+
+1.网口 提速效果。
+2.高速采集没有触发模式
+3.积分时间短出现电平触发不能用的问题，需要测一下。
+
+
+                                _m_dLamda = 2.1 + i * 0.01;
+                                _m_dCoe = 1.1 + i * 0.01;
+
+-a?–v?–N?–x20–r100:10?l300?–t12?–d0
+
+-a?–v?–N?–x20–r100:10?l300?–t12?–d0
+
+-a?–v?–N?–x20–r100:10?l300?–t12?–d0
+
+
+data[7].Decimal[0]
+
+@echo off　　　
+
+echo 正在清除无用文件，请稍等......　　　　
+del /f /s /q  *.sdf
+del /f /s /q  *.ipch　
+del /f /s /q  *.tlog
+del /f /s /q  *.idb
+del /f /s /q  *.obj
+del /f /s /q  *.pdb
+
+del /f /s /q  *.ilk
+del /f /s /q  *.pch
+del /f /s /q  *.exp
+
+del /f /s /q  *.APS
+del /f /s /q  *.aps
+del /f /s /q  *.clw
+del /f /s /q  *.lastbuildstate
+del /f /s /q  *.ncb
+del /f /s /q  *.plg
+del /f /s /q  *.tmp
+del /f /s /q  *.unsuccessfulbuild
+del /f /s /q  *Upgrade*.*
+del /f /s /q *.vshost.*
+del /f /s /q *.exe.config
+del /f /s /q *.cache
+
+for /f "delims=" %%a in ('dir . /b /ad /s ^|sort /r' ) do rd /q "%%a" 2>nul
+
+echo 清除完成！　　　　
+echo. & pause
+
+
+
+
+直接用记事本或者notepad++（文本编辑软件都可）打开exe文件（dll文件），
+
+会有很多乱码，接下来只需要在第二段中找到PE两个字母，在其后的不远出会出现d? 或者L。
+
+若是d，则证明该程序是64位；若是L，则证明是32位。
+
+1.修改excel为多进程
+	1.打开注册表编辑器（开始-运行-输入" regedit ")，先进行导出操作备份注册表。
+　　2. 定位到【HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open】，展开Open，将ddeexec删除，然后选中command，双击右侧窗格的默认，将末尾的/dde改成【"%1"】（注意有双引号），再双击command，也是将末尾的/dde改成"%1"。图1是修改后的截图。
+　　3. 再定位到【HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open】用同样的方法修改注册表。
+　　4.此方法适用于office2010.2007，2016   找到对应csv文件处修改。
+
+
+
+
+set CONDA_FORCE_32BIT=1
+
+15384721026
+
